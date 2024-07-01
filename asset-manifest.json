@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gc-peer-supervision-tool/static/css/main.c2fd0ed3.css",
+    "main.js": "/gc-peer-supervision-tool/static/js/main.a133ca09.js",
+    "static/js/453.80efb980.chunk.js": "/gc-peer-supervision-tool/static/js/453.80efb980.chunk.js",
+    "index.html": "/gc-peer-supervision-tool/index.html",
+    "main.c2fd0ed3.css.map": "/gc-peer-supervision-tool/static/css/main.c2fd0ed3.css.map",
+    "main.a133ca09.js.map": "/gc-peer-supervision-tool/static/js/main.a133ca09.js.map",
+    "453.80efb980.chunk.js.map": "/gc-peer-supervision-tool/static/js/453.80efb980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fd0ed3.css",
+    "static/js/main.a133ca09.js"
+  ]
+}
